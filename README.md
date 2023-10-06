@@ -4,14 +4,15 @@ Esse projeto exemplifica o funcionamento de uma conta bancária ou até mesmo ca
 
 💻**Construção**
 
-A construção do código foi realizado com a linguagem de programação java
-com segmentos de programação orientada a objetos abstraindo o mundo real.
+Java 
+
+Intellij
 
 📋**Pré-requisitos**
 
 Java Jdk
 
-Intellij
+IDE de preferência
 
 ▶️**Instalação**
 
